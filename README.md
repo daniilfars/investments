@@ -1,2 +1,2 @@
 # investments
-Сайт инвестиции
+Сайт инвестиции - https://daniilfars.github.io/investments/
